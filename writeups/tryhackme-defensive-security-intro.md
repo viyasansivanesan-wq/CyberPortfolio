@@ -1,9 +1,15 @@
 TryHackMe — Defensive Security Intro
+
 Platform: TryHackMe
+
 Room: Defensive Security Intro
+
 Difficulty: Easy
+
 Category: Blue Team / Fundamentals
+
 Date Completed: April 2026
+
 Status: ✅ Completed
 
 Overview
