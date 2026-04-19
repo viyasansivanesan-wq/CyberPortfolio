@@ -1,2 +1,0 @@
-# CyberPortfolio
-My cybersecurity journey
