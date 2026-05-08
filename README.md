@@ -32,11 +32,11 @@ My cybersecurity learning and projects
 
 ###### 3 - How The Web Works
 
-\- DNS in detail ✅
+\- DNS in Detail ✅
 
-\- How websites work ✅
+\- How Websites Work ✅
 
-\- Http in detail ✅
+\- HTTP in Detail ✅
 
 \- Putting it all together ✅
 
@@ -44,37 +44,37 @@ My cybersecurity learning and projects
 
 ###### 4 - Computer Fundamentals
 
-\- Cloud computing fundamentals ✅
+\- Cloud Computing Fundamentals ✅
 
-\- Computer types ✅
+\- Computer Types ✅
 
-\- Inside a computer system ✅
+\- Inside a Computer System ✅
 
-\- Virtualisation basics ✅
+\- Virtualisation Basics ✅
 
 
 
 ###### 5 - Operating System Basics
 
-\- Operating systems introduction ✅
+\- Operating Systems Introduction ✅
 
-\- Windows basics ✅
+\- Windows Basics ✅
 
 
 
 ###### 6 - Software Basics
 
-\- Data encoding ✅
+\- Data Encoding ✅
 
-\- Data representation ✅
+\- Data Representation ✅
 
 
 
 ###### 7 - Attacks and Defences
 
-\- Cryptography concepts ✅
+\- Cryptography Concepts ✅
 
-\- The CIA triad ✅
+\- The CIA Triad ✅
 
 
 
@@ -84,25 +84,25 @@ My cybersecurity learning and projects
 
 ###### 1 - Start Your Cyber Security Journey
 
-\- Defensive security intro ✅
+\- Defensive Security Intro ✅
 
-\- Offensive security intro ✅
+\- Offensive Security Intro ✅
 
-\- Search skills ✅
+\- Search Skills ✅
 
 
 
 ###### 2 - Linux Fundamentals
 
-\- Linux fundamentals Part 1 ✅
+\- Linux Fundamentals Part 1 ✅
 
 
 
 ###### 3 - Windows and AD Fundamentals
 
-\- Windows fundamentals 1 ✅
+\- Windows Fundamentals 1 ✅
 
-\- Windows fundamentals 2 ✅
+\- Windows Fundamentals 2 ✅
 
-\- Windows fundamentals 3 ✅
+\- Windows Fundamentals 3 ✅
 
